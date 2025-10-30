@@ -20,7 +20,7 @@ Projet Next.js avec intégration Firebase pour la production de réunions.
 
 1. Clonez le repository :
 ```bash
-git clone [](https://github.com/grmvincent/meetproducer.git)
+git clone https://github.com/grmvincent/meetproducer.git
 cd meetproducer
 ```
 
